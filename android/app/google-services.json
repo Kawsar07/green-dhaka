@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "858903538765",
+    "firebase_url": "https://green-dhaka-40944.firebaseio.com",
+    "project_id": "green-dhaka-40944",
+    "storage_bucket": "green-dhaka-40944.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:858903538765:android:d134bea7691736283f8004",
+        "android_client_info": {
+          "package_name": "com.mehedihasaninfo.green_dhaka"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "858903538765-4bp96mu6jh65adjehl92q46fnjeoi31q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1Ln68pginpymHU6zzbv1CdPJMGS87ip8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "858903538765-4bp96mu6jh65adjehl92q46fnjeoi31q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
